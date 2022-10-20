@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "PiPico")(type "KiCad")(uri "${KIPRJMOD}/ExtraLibraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr "")(disabled))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/ExtraLibraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "DriverCarrier")(type "KiCad")(uri "${KIPRJMOD}/ExtraLibraries/DriverCarrier.pretty")(options "")(descr ""))
+)
