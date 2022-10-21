@@ -2043,7 +2043,7 @@
     (uuid aa9a7955-6f79-4ab6-956c-0ea64130df2f)
     (property "Reference" "R1" (id 0) (at 144.145 149.86 90))
     (property "Value" "R" (id 1) (at 144.145 152.4 90))
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 144.145 157.988 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (id 2) (at 144.145 157.988 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 144.145 156.21 0)
@@ -2355,7 +2355,7 @@
       (reference "J30") (unit 1) (value "UART") (footprint "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical")
     )
     (path "/aa9a7955-6f79-4ab6-956c-0ea64130df2f"
-      (reference "R1") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R1") (unit 1) (value "R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/03817d20-266c-4a32-a072-56f20d48d854"
       (reference "U1") (unit 1) (value "Pico") (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH")
